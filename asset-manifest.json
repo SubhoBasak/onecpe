@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b80b9726.css",
+    "main.js": "/static/js/main.1844e53b.js",
+    "static/media/Rectangle.gif": "/static/media/Rectangle.984f6fe057320d8c9b62.gif",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/secondSlideUpdated.png": "/static/media/secondSlideUpdated.a5b71027447aac4e4f6d.png",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/thirdSlideUpdated.png": "/static/media/thirdSlideUpdated.7cb0adac6d0c06774f1a.png",
+    "static/media/money.png": "/static/media/money.034f98c7c9d750c5476d.png",
+    "static/media/dollar.png": "/static/media/dollar.950abe1ef862f20339b1.png",
+    "static/media/linked.png": "/static/media/linked.af43fd137e06541a7ed2.png",
+    "static/media/firstSlideUpdated.png": "/static/media/firstSlideUpdated.0eeb0322823c12290091.png",
+    "static/media/coins.png": "/static/media/coins.3ca99792aa1ee3aa4147.png",
+    "static/media/logo.png": "/static/media/logo.d0d368c5da4370f9f51c.png",
+    "index.html": "/index.html",
+    "main.b80b9726.css.map": "/static/css/main.b80b9726.css.map",
+    "main.1844e53b.js.map": "/static/js/main.1844e53b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b80b9726.css",
+    "static/js/main.1844e53b.js"
+  ]
+}
